@@ -2,7 +2,8 @@
 
 Welcome to the Computer Vision Projects repository! This collection showcases various computer vision applications, with a focus on face detection and lane detection.
 
-<img width="604" alt="Bildschirmfoto 2024-07-13 um 20 03 45" src="https://github.com/user-attachments/assets/d76be019-3ee0-47c4-8e08-af47232e77c8">
+<img width="665" alt="Bildschirmfoto 2024-07-13 um 20 19 40" src="https://github.com/user-attachments/assets/96cb8e2f-341a-457d-b0fa-d6f50701afb3">
+
 
 ## Overview
 
