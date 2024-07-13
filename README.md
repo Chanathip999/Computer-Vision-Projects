@@ -2,6 +2,8 @@
 
 Welcome to the Computer Vision Projects repository! This collection showcases various computer vision applications, with a focus on face detection and lane detection.
 
+<img width="604" alt="Bildschirmfoto 2024-07-13 um 20 03 45" src="https://github.com/user-attachments/assets/d76be019-3ee0-47c4-8e08-af47232e77c8">
+
 ## Overview
 
 This repository contains projects that leverage computer vision techniques to solve real-world problems. Our primary projects include:
@@ -26,9 +28,6 @@ The lane detection project focuses on identifying road lanes to assist with auto
 - **Edge Detection**: Uses advanced algorithms to highlight lane markers.
 - **Perspective Transformation**: Applies geometric transformations to better visualize lanes.
 - **Video Analysis**: Processes video feeds to continuously track lane positions.
-
-### Example 
-<img width="604" alt="Bildschirmfoto 2024-07-13 um 20 03 45" src="https://github.com/user-attachments/assets/d76be019-3ee0-47c4-8e08-af47232e77c8">
 
 ## Getting Started
 
