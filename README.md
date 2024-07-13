@@ -28,7 +28,7 @@ The lane detection project focuses on identifying road lanes to assist with auto
 - **Video Analysis**: Processes video feeds to continuously track lane positions.
 
 ### Example 
-(<img width="604" alt="Bildschirmfoto 2024-07-13 um 20 03 45" src="https://github.com/user-attachments/assets/d76be019-3ee0-47c4-8e08-af47232e77c8">)
+<img width="604" alt="Bildschirmfoto 2024-07-13 um 20 03 45" src="https://github.com/user-attachments/assets/d76be019-3ee0-47c4-8e08-af47232e77c8">
 
 ## Getting Started
 
