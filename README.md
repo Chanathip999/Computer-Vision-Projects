@@ -27,6 +27,9 @@ The lane detection project focuses on identifying road lanes to assist with auto
 - **Perspective Transformation**: Applies geometric transformations to better visualize lanes.
 - **Video Analysis**: Processes video feeds to continuously track lane positions.
 
+### Example 
+![Erkennungsbeispiel 1](<img width="604" alt="Bildschirmfoto 2024-07-13 um 20 03 45" src="https://github.com/user-attachments/assets/d76be019-3ee0-47c4-8e08-af47232e77c8">)
+
 ## Getting Started
 
 To get started with these projects, clone the repository and follow the setup instructions in the respective project directories. You'll need Python and several libraries, which can be installed via `pip`.
